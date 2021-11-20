@@ -1,0 +1,19 @@
+{
+  "name": "my_project",
+  "version": "1.0.0",
+  "description": "This is a hospital management system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krisha-magar/task.git"
+  },
+  "author": "Krisha Lungeli Magar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krisha-magar/task/issues"
+  },
+  "homepage": "https://github.com/krisha-magar/task#readme"
+}
